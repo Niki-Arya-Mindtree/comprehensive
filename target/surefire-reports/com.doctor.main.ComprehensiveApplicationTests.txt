@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.doctor.main.ComprehensiveApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 54.231 s - in com.doctor.main.ComprehensiveApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 44.408 s - in com.doctor.main.ComprehensiveApplicationTests

@@ -4,7 +4,7 @@ services:
     build: .
     image: hospitalmangement:1.0
     ports:
-      - 8024:8021
+      - 80:80
       
   
   
